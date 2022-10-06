@@ -1,2 +1,2 @@
 # daily_updates
-Daily Notion Updates
+Notion daily updates
